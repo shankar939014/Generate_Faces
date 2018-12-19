@@ -30,3 +30,4 @@ The project will be broken down into a series of tasks from loading in data to d
  5) Model got trained for 30 epochs with learning rate of 0.0004
  
  6) Below are the sample faces generated with the trained DCGAN.
+   ![alt text](https://github.com/shankar939014/Generate_Faces/Celeb_Faces.JPG "Logo Title Text 1")
