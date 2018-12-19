@@ -19,7 +19,7 @@ The project will be broken down into a series of tasks from loading in data to d
      
  3) We can download the Dataset by clicking the link below. 
  
- [Download  CelebFaces Attributes Dataset (CelebA)]( https://s3.amazonaws.com/video.udacity-data.com/topher/2018/November/5be7eb6f_processed-celeba-small/processed-celeba-small.zip)
+    [Download  CelebFaces Attributes Dataset (CelebA)]( https://s3.amazonaws.com/video.udacity-data.com/topher/2018/November/5be7eb6f_processed-celeba-small/processed-celeba-small.zip)
  
  4) Open the jupyter notebook dlnd_face_generation.ipynb
   
