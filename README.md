@@ -31,4 +31,9 @@ The project will be broken down into a series of tasks from loading in data to d
  
  6) Below are the sample faces generated with the trained DCGAN.
    ![alt text](https://github.com/shankar939014/Generate_Faces/blob/master/Celeb_Faces.JPG "Logo Title Text 1")
+   
+Here is my course completion certificate
+
+![alt text](https://github.com/shankar939014/Generate_Faces/blob/master/DLND_Certificate.JPG "Logo Title Text 1")
+
   
